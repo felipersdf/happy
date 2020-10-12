@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center"> 
-Uma aplicação web e mobile que tem como principal objetivo  conectar alunos e professores.
+Uma aplicação web e mobile que tem como principal objetivo auxiliar pessoas a se conectarem à orfanatos e ajudar crianças.
 </p>
 
 <p align="center">
