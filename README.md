@@ -110,4 +110,4 @@ Nota: Se você escolher rodar no emulador android, você precisa iniciar o emula
 
 This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) page for details.
 
-All rights reserved to [RocketSeat](www.rocketsetat.com.br)
+All rights reserved to [RocketSeat](www.rocketseat.com.br)
