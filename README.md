@@ -68,7 +68,7 @@ Estas foram as tecnologias utilizadas nesse projeto:
 
 #### Mobile
 
-  <img src=".github/splash-mobile.png" width="340px" />
+  <img src=".github/splash.png" width="340px" />
 </div>
 
 <div align="center">
